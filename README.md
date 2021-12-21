@@ -6,7 +6,7 @@
 - Concurrency/Parallelism(Ch6)
 - Multi scrapping(Ch7)
 
-### [<정리>](https://velog.io/@minj10092/series/Python)
+### [Blog 정리](https://velog.io/@minj10092/series/Python)
 
 
 
